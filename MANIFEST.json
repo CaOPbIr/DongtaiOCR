@@ -1,0 +1,14 @@
+{
+  "index.html": {
+    "bytes": 5970,
+    "sha256": "d32649e3028c04524bae534f27f515110c67dc3ed9d89edcac5ed589afeb4be7"
+  },
+  "static/workbench.css": {
+    "bytes": 9522,
+    "sha256": "fc9efa33d020cb4158c04fda1644d73d198ea338a77aa0f49093a4f726044ef4"
+  },
+  "static/workbench.js": {
+    "bytes": 16349,
+    "sha256": "b712b00a52efd96524f2f8c0efa34cf30631b3bdb6cd1f829af4c915ea99c1f1"
+  }
+}
